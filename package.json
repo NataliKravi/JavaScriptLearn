@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "repository": "git@github.com:NataliKravi/JavaScriptLearn.git",
   "license": "MIT",
-  "modules": "esm",
   "scripts": {
     "test": "jest"
   },
