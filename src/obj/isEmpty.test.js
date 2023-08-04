@@ -1,4 +1,4 @@
-import { isEmpty } from './schedue'
+import { isEmpty } from './isEmpty'
 
 describe('Schedue 1', () => {
 	test('Happy Patch', () => {
